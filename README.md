@@ -1,62 +1,52 @@
-project-name/
-│
-│
-├── config/
-│   └── app.php
-│
-├── resources/
-│   ├── views/
-│   │   ├── admin/
-│   │   │   ├── dashboard.php
-│   │   │   ├── users.php
-│   │   │   └── settings.php
-│   │   ├── user/
-│   │   │   ├── profile.php
-│   │   │   └── dashboard.php
-│   │   ├── auth/
-│   │   │   ├── login.php
-│   │   │   ├── register.php
-│   │   │   └── forgot-password.php
-│   │   └── layouts/
-│   │       ├── layout_style/
-│   │       │         └─── style_header.css
-│   │       ├── layout_script/
-│   │       │         └─── script_header.js
-│   │       ├── header.php
-│   │       ├── footer.php
-│   │       └── sidebar.php
-│   │  
-├── assets/
-│      ├── css/
-│      │   └── index.css
-│      ├── js/
-│      │   └── script-faq.js
-│      └── images/
-│             ├── ASSET FOTO LAINNYA
-│             └── ASSET FOTO LAINNYA
-├── routes/
-│   ├── web.php
-│   └── api.php
-│
-├── storage/
-│   ├── logs/
-│   ├── uploads/
-│   └── cache/
-│
-├── tests/
-│   ├── Unit/
-│   └── Feature/
-│
-├── vendor/
-│
-│
-├── index.php
-├── .env
-├── .htaccess
-├── composer.json
-└── README.md
+<h1 align="center" style="font-weight: bold">Hello, I am a student</h1>
+<h3 align="center">im a web developer</h3>
 
+- 🏷️ I am a `web` developer
+- 🇮🇩 I am From `Indonesia`
+- 🗓️ I started my career as a programmer 3 years ago.
+- _📖 Iam first time learning `Termux android emulator`. 3 years ago, and 2 years later I focused on `JavaScript`, and after that I was interested in creating a `website` program until now._
+- 🌐 visit: <a href="https://wa.me/6283134409906">`Chat Me`</a>
+- ✉️ Email for Bussiness: <a href="">`faisaldev.ux@gmail.com`</a>
 
+## skils
 
-saya ingin membuat halaman login dan registrasi menggunkana posisi struktur di
-atas
+<div align="center">
+     <h3>langguages</h3>
+     <p align = "center">
+          <a href="https://skillicons.dev">
+               <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,sass,html,css&perline=8"alt="My Skills"/> 
+          </a>
+     </p>
+</div>
+<div align="center">
+     <h3>databases</h3>
+     <p align = "center">
+          <a href="https://skillicons.dev">
+               <img style="margin: 10px"src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8"alt="My Skills"/> 
+          </a>
+     </p>
+</div>
+<div align="center">
+     <h3>frameworks</h3>
+     <p align = "center">
+          <a href="https://skillicons.dev">
+               <img style="margin: 10px"src="https://skillicons.dev/icons?i=tailwindcss,express,bootstrap&perline=8"alt="My Skills"/> 
+          </a>
+     </p>
+</div>
+<div align="center">
+     <h3>tools</h3>
+     <p align = "center">
+          <a href="https://skillicons.dev">
+               <img style="margin: 10px"src="https://skillicons.dev/icons?i=npm,git,vscode,yarn&perline=8"alt="My Skills"/> 
+          </a>
+     </p>
+</div>
+
+## Statistic
+
+<div align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=APdev93&theme=dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=APdev93&theme=dark" height="180em" />
+     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APdev93&layout=compact&theme=dark"/>
+</div>
