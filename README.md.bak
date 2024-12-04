@@ -1,0 +1,79 @@
+project-name/
+│
+├── app/
+│   ├── Controllers/
+│   │   ├── AdminController.php
+│   │   ├── UserController.php
+│   │   └── AuthController.php
+│   │
+│   ├── Models/
+│   │   ├── UserModel.php
+│   │   ├── AdminModel.php
+│   │   └── AuthModel.php
+│   │
+│   └── Middleware/
+│       ├── AuthMiddleware.php
+│       └── AdminMiddleware.php
+│
+├── config/
+│   ├── database.php
+│   ├── app.php
+│   └── routes.php
+│
+├── resources/
+│   ├── views/
+│   │   ├── admin/
+│   │   │   ├── dashboard.php
+│   │   │   ├── users.php
+│   │   │   └── settings.php
+│   │   ├── user/
+│   │   │   ├── profile.php
+│   │   │   └── dashboard.php
+│   │   ├── auth/
+│   │   │   ├── login.php
+│   │   │   ├── register.php
+│   │   │   └── forgot-password.php
+│   │   └── layouts/
+│   │       ├── layout_style/
+│   │       │         └─── style_header.css
+│   │       ├── layout_script/
+│   │       │         └─── script_header.js
+│   │       ├── header.php
+│   │       ├── footer.php
+│   │       └── sidebar.php
+│
+├── assets/
+│      ├── css/
+│      │   ├── bootstrap.min.css
+│      │   ├── index.css
+│      │   └── custom.css
+│      ├── js/
+│      │   ├── jquery.min.js
+│      │   ├── bootstrap.min.js
+│      │   ├── script.js
+│      │   ├── script-faq.js
+│      │   └── custom.js
+│      └── images/
+│             ├── ASSET FOTO LAINNYA
+│             └── ASSET FOTO LAINNYA
+├── routes/
+│   ├── web.php
+│   └── api.php
+│
+├── storage/
+│   ├── logs/
+│   ├── uploads/
+│   └── cache/
+│
+├── tests/
+│   ├── Unit/
+│   └── Feature/
+│
+├── vendor/
+│
+│
+├── index.php
+├── .env
+├── .htaccess
+├── composer.json
+└── README.md
